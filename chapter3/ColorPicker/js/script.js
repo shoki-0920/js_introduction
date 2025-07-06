@@ -16,5 +16,3 @@ const colorBg = () => {
   }
 };
 
-// カラーピッカーが変更されたら colorBg を発動させる
-color.addEventListener('input', colorBg);
